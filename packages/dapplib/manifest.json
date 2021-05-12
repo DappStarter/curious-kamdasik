@@ -1,0 +1,14 @@
+{
+    "name": "POLR ",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/administrator_role": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "PolyStarter Token",
+        "/category/asset_value_tracking/token/symbol": "POLR",
+        "/category/asset_value_tracking/token/decimals": "18",
+        "/category/asset_value_tracking/token/supply": "100000000000000000"
+    }
+}
